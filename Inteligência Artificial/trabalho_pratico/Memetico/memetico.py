@@ -3,9 +3,9 @@ import copy
 
 TAMANHO_POPULACAO = 200  # Quantidade de tabuleiros por geração
 GERACOES = 500  # Limite máximo de iterações do algoritmo
-TAXA_MUTACAO = 0.5  # 50% de chance de sofrer mutação por linha
+TAXA_MUTACAO = 0.02  # 2% de chance de sofrer mutação por linha
 ELITISMO = 10  # Quantidade de melhores indivíduos que passam direto
-ESTAGNACAO_MAX = 30  # Gerações sem melhora antes de resetar a população
+ESTAGNACAO_MAX = 15  # Gerações sem melhora antes de resetar a população
 BUSCA_LOCAL_ITER = 100  # Tentativas de melhoria por busca local
 
 
