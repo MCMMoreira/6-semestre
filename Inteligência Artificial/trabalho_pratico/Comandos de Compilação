@@ -1,0 +1,14 @@
+tp-ia/
+
+Para gerar testes:
+
+python3 main.py
+------------------------------------------------
+
+Para rodar backtracking isolado:
+
+python3 Backtracking/main.py test/test_files/<nome_arquivo.txt>
+
+------------------------------------------------
+Para rodar memético isolado:
+python3 Memetico/main.py test/test_files/<nome_arquivo.txt>

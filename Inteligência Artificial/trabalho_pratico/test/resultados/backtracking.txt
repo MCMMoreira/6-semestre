@@ -1,0 +1,185 @@
+RESOLUÇÕES - BACKTRACKING
+==============================
+
+Teste 1
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 4  3 |  1  2 
+ 1  2 |  3  4 
+-----------
+ 3  4 |  2  1 
+ 2  1 |  4  3 
+
+
+Teste 2
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 2  1 |  4  3 
+ 3  4 |  2  1 
+-----------
+ 4  3 |  1  2 
+ 1  2 |  3  4 
+
+
+Teste 3
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0000 segundos
+Tabuleiro Resolvido:
+ 4  2 |  3  1 
+ 1  3 |  2  4 
+-----------
+ 2  4 |  1  3 
+ 3  1 |  4  2 
+
+
+Teste 4
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 2  1 |  3  4 
+ 3  4 |  1  2 
+-----------
+ 1  2 |  4  3 
+ 4  3 |  2  1 
+
+
+Teste 5
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0000 segundos
+Tabuleiro Resolvido:
+ 3  4 |  1  2 
+ 2  1 |  4  3 
+-----------
+ 4  3 |  2  1 
+ 1  2 |  3  4 
+
+
+Teste 6
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 1  2 |  3  4 
+ 3  4 |  2  1 
+-----------
+ 2  1 |  4  3 
+ 4  3 |  1  2 
+
+
+Teste 7
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0002 segundos
+Tabuleiro Resolvido:
+ 1  2 |  3  4 
+ 3  4 |  2  1 
+-----------
+ 4  3 |  1  2 
+ 2  1 |  4  3 
+
+
+Teste 8
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 1  4 |  2  3 
+ 3  2 |  1  4 
+-----------
+ 4  1 |  3  2 
+ 2  3 |  4  1 
+
+
+Teste 9
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 1  3 |  2  4 
+ 2  4 |  3  1 
+-----------
+ 4  2 |  1  3 
+ 3  1 |  4  2 
+
+
+Teste 10
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 1  4 |  2  3 
+ 2  3 |  1  4 
+-----------
+ 3  1 |  4  2 
+ 4  2 |  3  1 
+
+
+Teste 11
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 1  3 |  2  4 
+ 2  4 |  1  3 
+-----------
+ 4  2 |  3  1 
+ 3  1 |  4  2 
+
+
+Teste 12
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 2  1 |  3  4 
+ 3  4 |  1  2 
+-----------
+ 4  3 |  2  1 
+ 1  2 |  4  3 
+
+
+Teste 13
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 1  2 |  3  4 
+ 3  4 |  1  2 
+-----------
+ 4  3 |  2  1 
+ 2  1 |  4  3 
+
+
+Teste 14
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 1  3 |  4  2 
+ 2  4 |  1  3 
+-----------
+ 4  2 |  3  1 
+ 3  1 |  2  4 
+
+
+Teste 15
+---------------
+Resultado: Resolvido com Sucesso
+Tempo de Execução: 0.0001 segundos
+Tabuleiro Resolvido:
+ 2  3 |  4  1 
+ 4  1 |  2  3 
+-----------
+ 1  4 |  3  2 
+ 3  2 |  1  4 
+
+
+==============================
+MÉDIA TOTAL: 0.0001 segundos
